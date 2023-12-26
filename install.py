@@ -1,7 +1,6 @@
 import os
 import platform
 import subprocess
-import os
 
 
 current_os = platform.system()
